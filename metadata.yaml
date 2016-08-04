@@ -1,0 +1,53 @@
+_repo: The-Old-English-Baron--a-Gothic-Story_5182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reeve, Clara
+    alias: Reeves, Clara
+    birthdate: 1729
+    deathdate: 1807
+    gutenberg_agent_id: '1726'
+    url: http://www.gutenberg.org/2009/agents/1726
+description: "The Old English Baron is an early Gothic novel by the English author\
+  \ Clara Reeve. It was first published under this title in 1778, although it had\
+  \ anonymously appeared in 1777 under its original name of The Champion of Virtue,\
+  \ before Samuel Richardson's daughter, Mrs Bridgen, had edited it for her. Apart\
+  \ from typographical errors, the revision was trifling.\nMiss Reeve noted in the\
+  \ 1778 preface that\n\n\"This Story is the literary offspring of The Castle of Otranto,\
+  \ written upon the same plan, with a design to unite the most attractive and interesting\
+  \ circumstances of the ancient Romance and modern Novel, at the same time it assumes\
+  \ a character and manner of its own, that differs from both; it is distinguished\
+  \ by the appellation of a Gothic Story, being a picture of Gothic times and manners.\"\
+  \n\nOriginally Miss Reeve presented the story, as Walpole had done before her, as\
+  \ an old manuscript she had merely discovered and transcribed. Under Mrs Bridgen's\
+  \ auspices this fiction was removed from the preface, but more subtle textual references\
+  \ to its authenticity were allowed to remain. These included the claim that the\
+  \ four-year interval was a lacuna in the manuscript, where the original author was\
+  \ suppose to have left off and a \"more modern hand\" continued the manuscript;\
+  \ there are many subsequent breaches in the narrative where the original was supposed\
+  \ to have been defaced by damp.\n\nThe Oxford World's Classics edition notes that\
+  \ it was a major influence in the development of Gothic fiction. It was dramatized\
+  \ in 1799 as Edmond, Orphan of the Castle.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5182'
+  wikidata: Q3796165
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Henry VI, 1422-1461 -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- GITenberg
+title: 'The Old English Baron: a Gothic Story'
+url: http://www.gutenberg.org/ebooks/5182
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Old_English_Baron
+- https://it.wikipedia.org/wiki/Il_vecchio_barone_inglese
